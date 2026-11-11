@@ -1,0 +1,2 @@
+[tool.pytest.ini_options]   # "these are pytest's settings"
+pythonpath = ["."]          # "add the project root folder to Python's import path"
