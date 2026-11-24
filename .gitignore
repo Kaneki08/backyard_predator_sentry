@@ -5,3 +5,6 @@ __pycache__/
 data/raw/
 *.pt
 scratch.py
+*.jpg
+*.jpeg
+*.png
